@@ -6,9 +6,9 @@ class ShopPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-  appBar: AppBar(title: const Text("Shop")),
-  body: const Center(child: Text("Shop coming soon...")),
-);
-
+      appBar: AppBar(title: const Text("Shop")), 
+      body: const Center(child: Text("Shop coming soon...")),
+    );
   }
 }
+
